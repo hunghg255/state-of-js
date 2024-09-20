@@ -1,0 +1,18 @@
+{
+  "name": "state2",
+  "version": "1.0.0",
+  "description": "- Load từ node_modules - require",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hunghg255",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "webpack": "^5.94.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "state6",
+  "version": "1.0.0",
+  "description": "- ES6",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hunghg255",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "lodash-es": "^4.17.21"
+  }
+}

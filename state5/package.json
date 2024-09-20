@@ -1,0 +1,23 @@
+{
+  "name": "state2",
+  "version": "1.0.0",
+  "description": "- Load từ node_modules - require",
+  "main": "script.js",
+  "scripts": {
+    "dev": "./node_modules/.bin/webpack --config ./webpack.config.js --mode=development",
+    "prod": "./node_modules/.bin/webpack --config ./webpack.config.js --mode=production"
+  },
+  "keywords": [],
+  "author": "hunghg255",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.4",
+    "babel-loader": "^9.2.1",
+    "webpack": "^5.94.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
